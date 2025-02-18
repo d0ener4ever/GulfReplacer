@@ -1,10 +1,10 @@
-# Golf Replacer
+# Gulf Replacer
 
-Tired of being told how to name your Gulf? Golf Replacer is here for those who refuse to be dictated - change "Gulf of America" to "Gulf of Denmark" (or any name you like) and reclaim your naming freedom!
+Tired of being told how to name your Gulf? Gulf Replacer is here for those who refuse to be dictated - change "Gulf of America" to "Gulf of Denmark" (or any name you like) and reclaim your naming freedom!
 
 ## Overview
 
-Golf Replacer is a browser extension that automatically replaces specific text on web pages. In this version, it replaces all occurrences of **"Gulf of America"** with **"Gulf of Denmark"**. The extension is easy to install on both Chrome and Firefox and can be extended to support more replacement rules or languages.
+Gulf Replacer is a browser extension that automatically replaces specific text on web pages. In this version, it replaces all occurrences of **"Gulf of America"** with **"Gulf of Denmark"**. The extension is easy to install on both Chrome and Firefox and can be extended to support more replacement rules or languages.
 
 ## Installation
 
